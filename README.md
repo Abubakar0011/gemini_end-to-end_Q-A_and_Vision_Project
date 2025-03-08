@@ -39,7 +39,7 @@ streamlit run vision_app.py
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/Abubakar0011/gemini_end-to-end_Q-A_and_Vision_Project.git
    cd your-repo-name
    ```
 
